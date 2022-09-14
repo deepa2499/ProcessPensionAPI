@@ -1,0 +1,344 @@
+2022-09-11 15:59:56,034  INFO - Application started. Press Ctrl+C to shut down.
+2022-09-11 15:59:56,052  INFO - Application started. Press Ctrl+C to shut down.
+2022-09-11 15:59:56,052  INFO - Hosting environment: Development
+2022-09-11 15:59:56,053  INFO - Hosting environment: Development
+2022-09-11 15:59:56,053  INFO - Content root path: C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService
+2022-09-11 15:59:56,053  INFO - Content root path: C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService
+2022-09-11 16:15:10,560  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 16:15:10,560  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 16:15:10,681  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:15:10,681  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:15:10,697  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:15:10,697  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:15:10,699  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:15:10,699  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:15:13,506  INFO - Received HTTP response headers after 2803.7026ms - 200
+2022-09-11 16:15:13,507  INFO - Received HTTP response headers after 2803.7026ms - 200
+2022-09-11 16:15:13,508  INFO - End processing HTTP request after 2818.5865ms - 200
+2022-09-11 16:15:13,508  INFO - End processing HTTP request after 2818.5865ms - 200
+2022-09-11 16:15:13,515  INFO - [HTTP Response] Status: OK
+2022-09-11 16:15:13,515  INFO - [HTTP Response] Status: OK
+2022-09-11 16:15:13,908  INFO - Details did not match for '564740730130'
+2022-09-11 16:15:13,908  INFO - Details did not match for '564740730130'
+2022-09-11 16:24:00,959  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 16:24:00,959  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 16:24:00,959  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:00,959  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:00,960  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:00,960  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:00,961  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:00,961  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:03,222  INFO - Received HTTP response headers after 2261.1531ms - 200
+2022-09-11 16:24:03,222  INFO - Received HTTP response headers after 2261.1531ms - 200
+2022-09-11 16:24:03,222  INFO - End processing HTTP request after 2262.2681ms - 200
+2022-09-11 16:24:03,222  INFO - End processing HTTP request after 2262.2681ms - 200
+2022-09-11 16:24:03,223  INFO - [HTTP Response] Status: OK
+2022-09-11 16:24:03,223  INFO - [HTTP Response] Status: OK
+2022-09-11 16:24:03,223  INFO - Details did not match for '564740730130'
+2022-09-11 16:24:03,224  INFO - Details did not match for '564740730130'
+2022-09-11 16:24:22,504  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 16:24:22,504  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 16:24:22,504  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:22,504  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:22,504  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:22,505  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:22,505  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:22,505  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:24:23,858  INFO - Received HTTP response headers after 1353.2502ms - 200
+2022-09-11 16:24:23,858  INFO - Received HTTP response headers after 1353.2502ms - 200
+2022-09-11 16:24:23,858  INFO - End processing HTTP request after 1353.9086ms - 200
+2022-09-11 16:24:23,858  INFO - End processing HTTP request after 1353.9086ms - 200
+2022-09-11 16:24:23,858  INFO - [HTTP Response] Status: OK
+2022-09-11 16:24:23,858  INFO - [HTTP Response] Status: OK
+2022-09-11 16:24:23,861  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 16:24:23,861  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 16:26:45,385  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:26:45,385  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:26:45,385  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:26:45,385  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:26:45,385  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:26:45,385  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:26:46,685  INFO - Received HTTP response headers after 1300.376ms - 200
+2022-09-11 16:26:46,686  INFO - Received HTTP response headers after 1300.376ms - 200
+2022-09-11 16:26:46,686  INFO - End processing HTTP request after 1300.9026ms - 200
+2022-09-11 16:26:46,686  INFO - End processing HTTP request after 1300.9026ms - 200
+2022-09-11 16:26:46,686  INFO - [HTTP Response] Status: OK
+2022-09-11 16:26:46,686  INFO - [HTTP Response] Status: OK
+2022-09-11 16:26:46,750  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 16:26:46,750  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 16:26:46,750  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 16:26:46,751  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 16:26:46,751  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 16:26:46,751  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 16:26:52,643  INFO - Received HTTP response headers after 5892.105ms - 200
+2022-09-11 16:26:52,643  INFO - Received HTTP response headers after 5892.105ms - 200
+2022-09-11 16:26:52,643  INFO - End processing HTTP request after 5892.6894ms - 200
+2022-09-11 16:26:52,643  INFO - End processing HTTP request after 5892.6894ms - 200
+2022-09-11 16:26:52,699  INFO - [HTTP Response] Status: OK
+2022-09-11 16:26:52,699  INFO - [HTTP Response] Status: OK
+2022-09-11 16:26:52,706  INFO - Pension processed for '564740730130' with 21 process code.
+2022-09-11 16:26:52,706  INFO - Pension processed for '564740730130' with 21 process code.
+2022-09-11 16:34:19,779  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 16:34:19,779  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 16:34:19,779  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:34:19,779  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:34:19,779  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:34:19,779  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:34:19,779  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:34:19,780  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 16:34:21,270  INFO - Received HTTP response headers after 1490.9305ms - 200
+2022-09-11 16:34:21,271  INFO - Received HTTP response headers after 1490.9305ms - 200
+2022-09-11 16:34:21,271  INFO - End processing HTTP request after 1491.6338ms - 200
+2022-09-11 16:34:21,271  INFO - End processing HTTP request after 1491.6338ms - 200
+2022-09-11 16:34:21,271  INFO - [HTTP Response] Status: OK
+2022-09-11 16:34:21,271  INFO - [HTTP Response] Status: OK
+2022-09-11 16:34:21,271  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 16:34:21,271  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 17:13:16,202  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 17:13:16,203  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 17:13:16,203  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:16,203  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:16,203  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:16,204  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:16,204  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:16,204  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:16,607  INFO - Received HTTP response headers after 402.9033ms - 200
+2022-09-11 17:13:16,607  INFO - Received HTTP response headers after 402.9033ms - 200
+2022-09-11 17:13:16,607  INFO - End processing HTTP request after 403.6007ms - 200
+2022-09-11 17:13:16,607  INFO - End processing HTTP request after 403.6007ms - 200
+2022-09-11 17:13:16,608  INFO - [HTTP Response] Status: OK
+2022-09-11 17:13:16,608  INFO - [HTTP Response] Status: OK
+2022-09-11 17:13:16,610  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 17:13:16,610  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 17:13:34,896  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:34,896  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:34,896  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:34,896  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:34,897  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:34,897  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:13:34,923  INFO - Received HTTP response headers after 26.0612ms - 200
+2022-09-11 17:13:34,923  INFO - Received HTTP response headers after 26.0612ms - 200
+2022-09-11 17:13:34,923  INFO - End processing HTTP request after 26.4632ms - 200
+2022-09-11 17:13:34,923  INFO - End processing HTTP request after 26.4632ms - 200
+2022-09-11 17:13:34,923  INFO - [HTTP Response] Status: OK
+2022-09-11 17:13:34,923  INFO - [HTTP Response] Status: OK
+2022-09-11 17:13:34,924  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 17:13:34,924  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 17:13:34,925  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 17:13:34,925  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 17:13:34,925  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 17:13:34,925  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 17:13:35,467  INFO - Received HTTP response headers after 541.1889ms - 200
+2022-09-11 17:13:35,467  INFO - Received HTTP response headers after 541.1889ms - 200
+2022-09-11 17:13:35,467  INFO - End processing HTTP request after 542.4566ms - 200
+2022-09-11 17:13:35,467  INFO - End processing HTTP request after 542.4566ms - 200
+2022-09-11 17:13:35,468  INFO - [HTTP Response] Status: OK
+2022-09-11 17:13:35,468  INFO - [HTTP Response] Status: OK
+2022-09-11 17:13:35,468  INFO - Pension processed for '564740730130' with 21 process code.
+2022-09-11 17:13:35,468  INFO - Pension processed for '564740730130' with 21 process code.
+2022-09-11 17:14:13,660  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 17:14:13,661  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 17:14:13,661  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:13,661  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:13,661  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:13,661  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:13,661  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:13,661  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:13,732  INFO - Received HTTP response headers after 70.6001ms - 200
+2022-09-11 17:14:13,732  INFO - Received HTTP response headers after 70.6001ms - 200
+2022-09-11 17:14:13,732  INFO - End processing HTTP request after 71.0157ms - 200
+2022-09-11 17:14:13,732  INFO - End processing HTTP request after 71.0157ms - 200
+2022-09-11 17:14:13,732  INFO - [HTTP Response] Status: OK
+2022-09-11 17:14:13,732  INFO - [HTTP Response] Status: OK
+2022-09-11 17:14:13,732  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 17:14:13,732  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 17:14:19,095  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:19,095  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:19,095  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:19,095  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:19,096  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:19,096  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 17:14:19,124  INFO - Received HTTP response headers after 28.8421ms - 200
+2022-09-11 17:14:19,124  INFO - Received HTTP response headers after 28.8421ms - 200
+2022-09-11 17:14:19,125  INFO - End processing HTTP request after 29.2494ms - 200
+2022-09-11 17:14:19,125  INFO - End processing HTTP request after 29.2494ms - 200
+2022-09-11 17:14:19,125  INFO - [HTTP Response] Status: OK
+2022-09-11 17:14:19,125  INFO - [HTTP Response] Status: OK
+2022-09-11 17:14:19,125  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 17:14:19,125  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 17:14:19,126  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 17:14:19,126  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 17:14:19,126  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 17:14:19,126  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 17:14:19,201  INFO - Received HTTP response headers after 75.4513ms - 200
+2022-09-11 17:14:19,201  INFO - Received HTTP response headers after 75.4513ms - 200
+2022-09-11 17:14:19,202  INFO - End processing HTTP request after 75.8896ms - 200
+2022-09-11 17:14:19,202  INFO - End processing HTTP request after 75.8896ms - 200
+2022-09-11 17:14:19,202  INFO - [HTTP Response] Status: OK
+2022-09-11 17:14:19,202  INFO - [HTTP Response] Status: OK
+2022-09-11 17:14:19,202  INFO - Pension processed for '564740730130' with 10 process code.
+2022-09-11 17:14:19,202  INFO - Pension processed for '564740730130' with 10 process code.
+2022-09-11 19:36:28,661  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 19:36:28,687  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 19:36:28,687  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:36:28,687  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:36:28,704  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:36:28,704  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:36:28,704  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:36:28,704  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:36:34,831  INFO - Received HTTP response headers after 6126.9758ms - 200
+2022-09-11 19:36:34,831  INFO - Received HTTP response headers after 6126.9758ms - 200
+2022-09-11 19:36:34,831  INFO - End processing HTTP request after 6127.661ms - 200
+2022-09-11 19:36:34,831  INFO - End processing HTTP request after 6127.661ms - 200
+2022-09-11 19:36:34,832  INFO - [HTTP Response] Status: OK
+2022-09-11 19:36:34,832  INFO - [HTTP Response] Status: OK
+2022-09-11 19:36:34,833  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 19:36:34,833  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 19:37:07,292  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:37:07,292  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:37:07,293  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:37:07,293  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:37:07,293  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:37:07,293  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:37:07,753  INFO - Received HTTP response headers after 460.1561ms - 200
+2022-09-11 19:37:07,753  INFO - Received HTTP response headers after 460.1561ms - 200
+2022-09-11 19:37:07,753  INFO - End processing HTTP request after 460.7522ms - 200
+2022-09-11 19:37:07,753  INFO - End processing HTTP request after 460.7522ms - 200
+2022-09-11 19:37:07,754  INFO - [HTTP Response] Status: OK
+2022-09-11 19:37:07,754  INFO - [HTTP Response] Status: OK
+2022-09-11 19:37:07,791  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 19:37:07,791  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 19:37:07,791  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:37:07,791  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:37:07,791  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:37:07,791  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:37:10,426  INFO - Received HTTP response headers after 2635.3734ms - 200
+2022-09-11 19:37:10,426  INFO - Received HTTP response headers after 2635.3734ms - 200
+2022-09-11 19:37:10,427  INFO - End processing HTTP request after 2635.7509ms - 200
+2022-09-11 19:37:10,427  INFO - End processing HTTP request after 2635.7509ms - 200
+2022-09-11 19:37:10,427  INFO - [HTTP Response] Status: OK
+2022-09-11 19:37:10,427  INFO - [HTTP Response] Status: OK
+2022-09-11 19:37:10,427  INFO - Pension processed for '564740730130' with 21 process code.
+2022-09-11 19:37:10,427  INFO - Pension processed for '564740730130' with 21 process code.
+2022-09-11 19:38:28,722  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 19:38:28,723  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 19:38:28,723  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:28,723  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:28,727  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:28,727  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:28,727  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:28,727  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:29,855  INFO - Received HTTP response headers after 1128.1342ms - 200
+2022-09-11 19:38:29,855  INFO - Received HTTP response headers after 1128.1342ms - 200
+2022-09-11 19:38:29,855  INFO - End processing HTTP request after 1130.2048ms - 200
+2022-09-11 19:38:29,855  INFO - End processing HTTP request after 1130.2048ms - 200
+2022-09-11 19:38:29,855  INFO - [HTTP Response] Status: OK
+2022-09-11 19:38:29,855  INFO - [HTTP Response] Status: OK
+2022-09-11 19:38:29,856  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 19:38:29,856  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 19:38:35,198  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:35,198  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:35,199  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:35,199  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:35,199  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:35,199  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:38:35,717  INFO - Received HTTP response headers after 518.3059ms - 200
+2022-09-11 19:38:35,717  INFO - Received HTTP response headers after 518.3059ms - 200
+2022-09-11 19:38:35,717  INFO - End processing HTTP request after 519.0956ms - 200
+2022-09-11 19:38:35,717  INFO - End processing HTTP request after 519.0956ms - 200
+2022-09-11 19:38:35,718  INFO - [HTTP Response] Status: OK
+2022-09-11 19:38:35,718  INFO - [HTTP Response] Status: OK
+2022-09-11 19:38:35,718  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 19:38:35,718  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 19:38:35,719  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:38:35,719  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:38:35,719  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:38:35,719  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:38:38,861  INFO - Received HTTP response headers after 3142.0574ms - 200
+2022-09-11 19:38:38,861  INFO - Received HTTP response headers after 3142.0574ms - 200
+2022-09-11 19:38:38,861  INFO - End processing HTTP request after 3142.5717ms - 200
+2022-09-11 19:38:38,861  INFO - End processing HTTP request after 3142.5717ms - 200
+2022-09-11 19:38:38,861  INFO - [HTTP Response] Status: OK
+2022-09-11 19:38:38,861  INFO - [HTTP Response] Status: OK
+2022-09-11 19:38:38,862  INFO - Pension processed for '564740730130' with 21 process code.
+2022-09-11 19:38:38,862  INFO - Pension processed for '564740730130' with 21 process code.
+2022-09-11 19:39:04,670  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 19:39:04,670  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 19:39:04,670  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:04,670  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:04,671  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:04,671  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:04,671  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:04,671  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:05,371  INFO - Received HTTP response headers after 700.283ms - 200
+2022-09-11 19:39:05,371  INFO - Received HTTP response headers after 700.283ms - 200
+2022-09-11 19:39:05,371  INFO - End processing HTTP request after 700.6806ms - 200
+2022-09-11 19:39:05,371  INFO - End processing HTTP request after 700.6806ms - 200
+2022-09-11 19:39:05,371  INFO - [HTTP Response] Status: OK
+2022-09-11 19:39:05,371  INFO - [HTTP Response] Status: OK
+2022-09-11 19:39:05,372  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 19:39:05,372  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 19:39:11,363  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:11,363  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:11,364  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:11,364  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:11,364  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:11,364  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:39:13,942  INFO - Received HTTP response headers after 2577.6121ms - 200
+2022-09-11 19:39:13,942  INFO - Received HTTP response headers after 2577.6121ms - 200
+2022-09-11 19:39:13,942  INFO - End processing HTTP request after 2578.6809ms - 200
+2022-09-11 19:39:13,942  INFO - End processing HTTP request after 2578.6809ms - 200
+2022-09-11 19:39:13,943  INFO - [HTTP Response] Status: OK
+2022-09-11 19:39:13,943  INFO - [HTTP Response] Status: OK
+2022-09-11 19:39:13,943  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 19:39:13,944  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 19:39:13,944  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:39:13,944  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:39:13,944  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:39:13,944  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:41:01,475 ERROR - The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-09-11 19:41:01,475 ERROR - The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-09-11 19:41:07,377 ERROR -    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at ProcessPensionService.Repository.PensionDisbursementRepository.DisbursePension(ProcessPensionInput processPensionInput) in C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService\Repository\PensionDisbursementRepository.cs:line 33
+2022-09-11 19:41:07,378 ERROR -    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at ProcessPensionService.Repository.PensionDisbursementRepository.DisbursePension(ProcessPensionInput processPensionInput) in C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService\Repository\PensionDisbursementRepository.cs:line 33
+2022-09-11 19:43:14,560  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 19:43:14,561  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-11 19:43:14,561  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:14,561  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:14,562  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:14,563  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:14,564  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:14,564  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:16,027  INFO - Received HTTP response headers after 1462.939ms - 200
+2022-09-11 19:43:16,027  INFO - Received HTTP response headers after 1462.939ms - 200
+2022-09-11 19:43:16,027  INFO - End processing HTTP request after 1465.9676ms - 200
+2022-09-11 19:43:16,027  INFO - End processing HTTP request after 1465.9676ms - 200
+2022-09-11 19:43:16,027  INFO - [HTTP Response] Status: OK
+2022-09-11 19:43:16,027  INFO - [HTTP Response] Status: OK
+2022-09-11 19:43:16,028  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 19:43:16,028  INFO - Pension details found and calculated for '564740730130'
+2022-09-11 19:43:22,049  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:22,049  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:22,049  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:22,049  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:22,049  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:22,049  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-11 19:43:22,460  INFO - Received HTTP response headers after 411.1498ms - 200
+2022-09-11 19:43:22,460  INFO - Received HTTP response headers after 411.1498ms - 200
+2022-09-11 19:43:22,461  INFO - End processing HTTP request after 411.5876ms - 200
+2022-09-11 19:43:22,461  INFO - End processing HTTP request after 411.5876ms - 200
+2022-09-11 19:43:22,462  INFO - [HTTP Response] Status: OK
+2022-09-11 19:43:22,462  INFO - [HTTP Response] Status: OK
+2022-09-11 19:43:22,462  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 19:43:22,462  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-11 19:43:22,463  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:43:22,463  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:43:22,463  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:43:22,463  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-11 19:45:10,409 ERROR - The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-09-11 19:45:10,409 ERROR - The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+2022-09-11 19:45:10,410 ERROR -    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at ProcessPensionService.Repository.PensionDisbursementRepository.DisbursePension(ProcessPensionInput processPensionInput) in C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService\Repository\PensionDisbursementRepository.cs:line 33
+2022-09-11 19:45:10,411 ERROR -    at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at ProcessPensionService.Repository.PensionDisbursementRepository.DisbursePension(ProcessPensionInput processPensionInput) in C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService\Repository\PensionDisbursementRepository.cs:line 33

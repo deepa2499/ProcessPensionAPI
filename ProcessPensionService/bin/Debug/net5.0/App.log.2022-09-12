@@ -1,0 +1,60 @@
+2022-09-12 10:22:20,663  INFO - Application started. Press Ctrl+C to shut down.
+2022-09-12 10:22:20,721  INFO - Application started. Press Ctrl+C to shut down.
+2022-09-12 10:22:20,722  INFO - Hosting environment: Development
+2022-09-12 10:22:20,722  INFO - Hosting environment: Development
+2022-09-12 10:22:20,723  INFO - Content root path: C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService
+2022-09-12 10:22:20,723  INFO - Content root path: C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService
+2022-09-12 10:25:33,684  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-12 10:25:33,684  INFO - POST: /getPensionDetail for '564740730130'
+2022-09-12 10:25:33,872  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:33,872  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:33,892  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:33,892  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:33,893  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:33,894  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:36,545  INFO - Received HTTP response headers after 2647.2196ms - 200
+2022-09-12 10:25:36,545  INFO - Received HTTP response headers after 2647.2196ms - 200
+2022-09-12 10:25:36,546  INFO - End processing HTTP request after 2663.3007ms - 200
+2022-09-12 10:25:36,546  INFO - End processing HTTP request after 2663.3007ms - 200
+2022-09-12 10:25:36,554  INFO - [HTTP Response] Status: OK
+2022-09-12 10:25:36,554  INFO - [HTTP Response] Status: OK
+2022-09-12 10:25:36,949  INFO - Pension details found and calculated for '564740730130'
+2022-09-12 10:25:36,949  INFO - Pension details found and calculated for '564740730130'
+2022-09-12 10:25:46,192  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:46,192  INFO - [HTTP Request] GET: api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:46,193  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:46,193  INFO - Start processing HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:46,193  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:46,193  INFO - Sending HTTP request GET https://localhost:44300/api/pensionerDetail/getDetailByAadhar/564740730130
+2022-09-12 10:25:46,301  INFO - Received HTTP response headers after 107.7682ms - 200
+2022-09-12 10:25:46,301  INFO - Received HTTP response headers after 107.7682ms - 200
+2022-09-12 10:25:46,301  INFO - End processing HTTP request after 108.3453ms - 200
+2022-09-12 10:25:46,301  INFO - End processing HTTP request after 108.3453ms - 200
+2022-09-12 10:25:46,303  INFO - [HTTP Response] Status: OK
+2022-09-12 10:25:46,303  INFO - [HTTP Response] Status: OK
+2022-09-12 10:25:46,372  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-12 10:25:46,372  INFO - [HTTP Request] Post: api/pensionDisbursement/disbursePension/
+2022-09-12 10:25:46,372  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-12 10:25:46,372  INFO - Start processing HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-12 10:25:46,372  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-12 10:25:46,372  INFO - Sending HTTP request POST https://localhost:44354/api/pensionDisbursement/disbursePension/
+2022-09-12 10:25:52,255  INFO - Received HTTP response headers after 5882.5209ms - 200
+2022-09-12 10:25:52,255  INFO - Received HTTP response headers after 5882.5209ms - 200
+2022-09-12 10:25:52,255  INFO - End processing HTTP request after 5883.0606ms - 200
+2022-09-12 10:25:52,255  INFO - End processing HTTP request after 5883.0606ms - 200
+2022-09-12 10:25:52,256  INFO - [HTTP Response] Status: OK
+2022-09-12 10:25:52,256  INFO - [HTTP Response] Status: OK
+2022-09-12 10:25:52,266  INFO - Pension processed for '564740730130' with 10 process code.
+2022-09-12 10:25:52,266  INFO - Pension processed for '564740730130' with 10 process code.
+2022-09-12 20:57:41,029  INFO - Application started. Press Ctrl+C to shut down.
+2022-09-12 20:57:41,046  INFO - Application started. Press Ctrl+C to shut down.
+2022-09-12 20:57:41,047  INFO - Hosting environment: Development
+2022-09-12 20:57:41,047  INFO - Hosting environment: Development
+2022-09-12 20:57:41,048  INFO - Content root path: C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService
+2022-09-12 20:57:41,048  INFO - Content root path: C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService
+2022-09-12 22:50:29,080  INFO - Application started. Press Ctrl+C to shut down.
+2022-09-12 22:50:29,205  INFO - Application started. Press Ctrl+C to shut down.
+2022-09-12 22:50:29,207  INFO - Hosting environment: Development
+2022-09-12 22:50:29,208  INFO - Hosting environment: Development
+2022-09-12 22:50:29,209  INFO - Content root path: C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService
+2022-09-12 22:50:29,251  INFO - Content root path: C:\Users\2146075\OneDrive - Cognizant\Desktop\PensionRefProject-master\ProcessPensionService\ProcessPensionService
